@@ -1,0 +1,8 @@
+prefix=/home/siddharth/cpp_center/install
+
+Name: cpp_tutorial
+Description: Description of cpp_tutorial
+Version: 0.0.0
+Cflags: -I/home/siddharth/cpp_center/install/include
+Libs: -L/home/siddharth/cpp_center/install/lib 
+Requires: roscpp
