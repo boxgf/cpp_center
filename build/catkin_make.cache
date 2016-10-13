@@ -1,2 +1,2 @@
 cpp_tutorials
--GEclipse CDT4 - Unix Makefiles -DCMAKE_VERBOSE_MAKEFILE=1 -DCATKIN_DEVEL_PREFIX=/home/siddharth/cpp_center/devel -DCMAKE_INSTALL_PREFIX=/home/siddharth/cpp_center/install
+-DCATKIN_DEVEL_PREFIX=/home/siddharth/cpp_center/devel -DCMAKE_INSTALL_PREFIX=/home/siddharth/cpp_center/install -G Unix Makefiles
