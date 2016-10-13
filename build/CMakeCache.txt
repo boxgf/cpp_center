@@ -258,10 +258,10 @@ catkin_DIR:PATH=/opt/ros/indigo/share/catkin/cmake
 cpp_common_DIR:PATH=/opt/ros/indigo/share/cpp_common/cmake
 
 //Value Computed by CMake
-cpp_tutorial_BINARY_DIR:STATIC=/home/siddharth/cpp_center/build/cpp_tutorials
+cpp_tutorial_BINARY_DIR:STATIC=/home/siddharth/cpp_center/build/cpp_tutorial
 
 //Value Computed by CMake
-cpp_tutorial_SOURCE_DIR:STATIC=/home/siddharth/cpp_center/src/cpp_tutorials
+cpp_tutorial_SOURCE_DIR:STATIC=/home/siddharth/cpp_center/src/cpp_tutorial
 
 //Value Computed by CMake
 gtest_BINARY_DIR:STATIC=/home/siddharth/cpp_center/build/gtest

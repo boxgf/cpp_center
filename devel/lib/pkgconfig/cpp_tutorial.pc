@@ -3,6 +3,6 @@ prefix=/home/siddharth/cpp_center/devel
 Name: cpp_tutorial
 Description: Description of cpp_tutorial
 Version: 0.0.0
-Cflags: -I/home/siddharth/cpp_center/src/cpp_tutorials/include
+Cflags: -I/home/siddharth/cpp_center/src/cpp_tutorial/include
 Libs: -L/home/siddharth/cpp_center/devel/lib 
 Requires: roscpp

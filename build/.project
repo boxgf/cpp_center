@@ -129,7 +129,12 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>[Targets]/[exe] cpp_tutorial_node</name>
+			<name>[Targets]/[exe] lambda_node</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>[Targets]/[exe] move_semantics_node</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
 		</link>

@@ -1,2 +1,2 @@
-cpp_tutorials
+cpp_tutorial
 -DCATKIN_DEVEL_PREFIX=/home/siddharth/cpp_center/devel -DCMAKE_INSTALL_PREFIX=/home/siddharth/cpp_center/install -G Unix Makefiles
